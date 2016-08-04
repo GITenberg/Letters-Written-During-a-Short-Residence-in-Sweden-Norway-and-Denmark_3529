@@ -1,0 +1,49 @@
+_repo: Letters-Written-During-a-Short-Residence-in-Sweden-Norway-and-Denmark_3529
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Cresswick, Mr.
+    - Godwin, Mary Wollstonecraft
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft
+description: '"This engaging volume was pioneering feminist Mary Wollstonecraft''s
+  most popular book during her lifetime. Difficult to categorize, it is both an arresting
+  travel book and a moving exploration of her personal and political selves. Wollstonecraft
+  set out for Scandinavia just two weeks after her first suicide attempt, on a mission
+  from the lover whose affections she doubted, to recover his silver on a ship that
+  had gone missing. With her baby daughter and a nursemaid, she traveled across the
+  dramatic landscape and wrote sublime descriptions of the natural world, and the
+  events and people she encountered. Fascinating appendices include Imlay''s commission
+  to recover his lost silver, Wollstonecraft''s recently discovered letter to the
+  Danish Prime Minister asking for assistance, the private letters she wrote to Imlay
+  during her travels in Scandinavia, a chapter from Godwin''s memoir of Wollstonecraft,
+  and a selection of contemporary reviews. About the Series: For over 100 years Oxford
+  World''s Classics has made available the broadest spectrum of literature from around
+  the globe. Each affordable volume reflects Oxford''s commitment to scholarship,
+  providing the most accurate text plus a wealth of other valuable features, including
+  expert introductions by leading authorities, voluminous notes to clarify the text,
+  up-to-date bibliographies for further study, and much more."--Publisher''s website.'
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wollstonecraft, Mary, 1759-1797 -- Correspondence'
+- !lcsh 'Scandinavia -- Description and travel -- Early works to 1800'
+- !lcsh 'Wollstonecraft, Mary, 1759-1797 -- Travel -- Scandinavia'
+- !lcc 'PR'
+- !lcsh 'Feminists -- Great Britain -- Correspondence'
+- !lcsh 'Imlay, Gilbert, 1754?-1828? -- Correspondence'
+- !lcsh 'Authors, English -- 18th century -- Correspondence'
+- GITenberg
+title: Letters Written During a Short Residence in Sweden, Norway, and Denmark
+url: http://www.gutenberg.org/ebooks/3529
